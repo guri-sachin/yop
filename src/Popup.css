@@ -1,0 +1,34 @@
+.main1{
+
+	height: 60%;
+	width: 50%;
+	top: 0%;
+	position:fixed;
+	}
+	.popup12{
+     height: 550px;
+      width: auto;
+	background-color: rgb(134, 126, 126);
+	position: fixed;
+	top:15%;
+	right:25%;
+	}
+	.popup-header{
+		display: flex;
+		justify-content: space-between;
+		padding: 0 15px 0 15px;
+	}
+	.glass{
+		z-index:1;
+	}
+    .aa h1{
+       text-align: center;
+    }
+   
+	.flex1{
+		display: flex;
+		gap: 40px;
+		align-items: center;
+		align-content: center;
+		padding-left: 38%;
+	}
